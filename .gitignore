@@ -1,0 +1,9 @@
+kubeclt
+*.log
+*.swp
+*.bin
+*.exe
+.idea/
+k8s/
+
+minikube-linux-amd64
