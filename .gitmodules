@@ -1,3 +1,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = git@github.com:RafalMalucha/user-service.git
+[submodule "project-service"]
+	path = project-service
+	url = git@github.com:RafalMalucha/project-service.git
