@@ -4,6 +4,5 @@ kubeclt
 *.bin
 *.exe
 .idea/
-k8s/
-
+.env
 minikube-linux-amd64
